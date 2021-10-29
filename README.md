@@ -2,6 +2,8 @@
 
 ## Cyber Security
 
+### Map
+
 - Assets
     - Privacy
     - Anonymity
@@ -14,7 +16,7 @@
     - HTTP/HTTPS Filter
     - FireWall
     - OpenPGP
-    - SSH
+    - SSL/TLS
 - Vulnerabilities
 - Threats
     - Vishing
@@ -37,3 +39,37 @@
     - Law Enforcement
     - Government
 - Consiquences
+
+### Process
+
+- Threet Model
+- Rist Accessments
+
+### Security Controls
+
+- Select
+- Implement
+- Access
+- Monitor
+
+### Security Attributes
+
+- Confidentiality
+- Availability
+- Integrity
+- Utility
+- Possession
+- Authenticity
+- Authorization
+- Authentication
+- Non-Repudation
+
+**Note:** `SABSA`
+
+### Defence In Depth
+
+- Prevent
+- Detect
+- Recover
+
+- **ZERO TRUST MODEL**
